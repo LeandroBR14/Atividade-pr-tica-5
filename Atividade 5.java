@@ -21,5 +21,6 @@ class Atividade5{
             fatorial = fatorial * i;
         }
         System.out.println("O fatorial desse número é: " +fatorial);
+        teclado.close();
     }
 }
