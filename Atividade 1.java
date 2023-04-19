@@ -4,7 +4,6 @@
 * Data de entrega: 30/4/2023
 */
 
-
 class Atividade1{
     public static void main(String[] args) {
         System.out.println("Segue abaixo todos os números pares de 0 a 100.");
