@@ -9,7 +9,7 @@
 class Atividade2{
     public static void main(String[] args) {
         System.out.println("Segue abaixo todos os números pares de 0 a 100 na ordem inversa.");
-        for (int i=100; i >=0; i--){
+        for (int i=100; i >0; i--){
             if (i % 2 == 0) {
                 System.out.println(i);
             }
